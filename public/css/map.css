@@ -1,0 +1,18 @@
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+#city-form{
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+
+#city-form .row{
+	margin-right: 0;
+	margin-left: 0;
+}
+
+#city_name{
+	width: 100%
+}
